@@ -66,6 +66,9 @@ Chosen option: "[option 1]", because [justification. e.g., only option, which me
 * Bad, because [argument c]
 * … <!-- numbers of pros and cons can vary -->
 
+## Validation
+* Validation options, e.g. archunit test
+
 ## Links <!-- optional -->
 
 * [Link type] [Link to ADR] <!-- example: Refined by [ADR-0005](0005-example.md) -->
