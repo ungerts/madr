@@ -66,7 +66,7 @@ Chosen option: "[option 1]", because [justification. e.g., only option, which me
 * Bad, because [argument c]
 * … <!-- numbers of pros and cons can vary -->
 
-## Validation
+## Validation <!-- optional -->
 * Validation options, e.g. archunit test
 
 ## Links <!-- optional -->
