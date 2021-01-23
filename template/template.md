@@ -1,10 +1,13 @@
 # [short title of solved problem and solution]
 
+* Key: ADR-0001 <!-- optional -->
 * Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0005](0005-example.md)] <!-- optional -->
 * Deciders: [list everyone involved in the decision] <!-- optional -->
 * Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
 
-Technical Story: [description | ticket/issue URL] <!-- optional -->
+Technical Epic/Story: [description | ticket/issue URL] <!-- optional -->
+
+Tags: tag1, tag2, ... <!-- optional -->
 
 ## Context and Problem Statement
 
@@ -65,6 +68,11 @@ Chosen option: "[option 1]", because [justification. e.g., only option, which me
 * Good, because [argument b]
 * Bad, because [argument c]
 * … <!-- numbers of pros and cons can vary -->
+
+## Validation <!-- optional -->
+
+[Describe how compliance with the decision can be verified.
+E.g. review, ArchUnit test]
 
 ## Links <!-- optional -->
 
