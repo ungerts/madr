@@ -1,0 +1,79 @@
+== [short title of solved problem and solution]
+
+* Key: ADR-0001
+* Status: [proposed | rejected | accepted | deprecated | … | superseded by link:0005-example.md[ADR-0005]]
+* Deciders: [list everyone involved in the decision]
+* Date: [YYYY-MM-DD when the decision was last updated]
+
+Technical Epic/Story: [description | ticket/issue URL]
+
+Tags: tag1, tag2, …
+
+=== Context and Problem Statement
+
+{empty}[Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in form of a question.]
+
+=== Decision Drivers 
+
+* [driver 1, e.g., a force, facing concern, …]
+* [driver 2, e.g., a force, facing concern, …]
+* …
+
+=== Considered Options
+
+* [option 1]
+* [option 2]
+* [option 3]
+* …
+
+=== Decision Outcome
+
+Chosen option: ``[option 1]'', because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+
+==== Positive Consequences 
+
+* [e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
+* …
+
+==== Negative Consequences 
+
+* [e.g., compromising quality attribute, follow-up decisions required, …]
+* …
+
+=== Pros and Cons of the Options 
+
+==== [option 1]
+
+{empty}[example | description | pointer to more information | …]
+
+* Good, because [argument a]
+* Good, because [argument b]
+* Bad, because [argument c]
+* …
+
+==== [option 2]
+
+{empty}[example | description | pointer to more information | …]
+
+* Good, because [argument a]
+* Good, because [argument b]
+* Bad, because [argument c]
+* …
+
+==== [option 3]
+
+{empty}[example | description | pointer to more information | …]
+
+* Good, because [argument a]
+* Good, because [argument b]
+* Bad, because [argument c]
+* …
+
+=== Validation 
+
+{empty}[Describe how compliance with the decision can be verified. E.g. review, ArchUnit test]
+
+=== Links 
+
+* [Link type] [Link to ADR]
+* …
